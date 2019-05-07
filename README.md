@@ -1,2 +1,4 @@
-# java-1
+### Planning to learn JavaScript
+
+
 over first project
